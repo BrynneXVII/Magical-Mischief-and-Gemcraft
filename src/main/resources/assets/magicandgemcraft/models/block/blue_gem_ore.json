@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "magicandgemcraft:blocks/blue_gem_ore"
+    }
+}

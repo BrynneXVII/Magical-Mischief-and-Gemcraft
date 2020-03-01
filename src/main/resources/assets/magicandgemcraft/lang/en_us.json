@@ -1,0 +1,15 @@
+{
+	"item.magicandgemcraft.amethyst_shard": "Amethyst Shard",
+	
+	"block.magicandgemcraft.purple_gem_ore": "Purple Gem Ore",
+	"block.magicandgemcraft.blue_gem_ore": "Blue Gem Ore",
+	"block.magicandgemcraft.green_gem_ore": "Green Gem Ore",
+	"block.magicandgemcraft.yellow_gem_ore": "Yellow Gem Ore",
+	"block.magicandgemcraft.orange_gem_ore": "Orange Gem Ore",
+	"block.magicandgemcraft.red_gem_ore": "Red Gem Ore",
+	"block.magicandgemcraft.rainbow_gem_ore": "Rainbow Gem Ore",
+	"block.magicandgemcraft.white_gem_ore": "White Gem Ore",
+	"block.magicandgemcraft.black_gem_ore": "Black Gem Ore",
+	
+	"itemGroup.gemcrafttab": "Gemcraft Tab"
+}
